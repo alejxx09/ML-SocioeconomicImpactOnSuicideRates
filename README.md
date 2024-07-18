@@ -6,10 +6,10 @@ This project analyzes global suicide rates in relation to various socio-economic
 
 ## Group Members
 
-Alejandro Cardona: Machine Learning and Data Analysis with Python
-Justin Williams: Data Analysis with Python
-Eduardo Lee: PowerBi Analysis
-Brandan Olivarrén: PowerBi Analysis
+1. Alejandro Cardona: Machine Learning and Data Analysis with Python
+2. Justin Williams: Data Analysis with Python
+3. Eduardo Lee: PowerBi Analysis
+4. Brandan Olivarrén: PowerBi Analysis
 
 ## Datasets
 
