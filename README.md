@@ -4,6 +4,13 @@
 
 This project analyzes global suicide rates in relation to various socio-economic factors and internet usage. By utilizing datasets covering multiple years and countries, we aim to uncover trends and correlations that could provide insights into the causes and potential prevention strategies for suicide.
 
+## Group Members
+
+Alejandro Cardona: Machine Learning and Data Analysis with Python
+Justin Williams: Data Analysis with Python
+Eduardo Lee: PowerBi Analysis
+Brandan Olivarrén: PowerBi Analysis
+
 ## Datasets
 
 1. **Suicide Rates Dataset**: Contains historical data on suicide rates across different countries, broken down by year, sex, and age group.
